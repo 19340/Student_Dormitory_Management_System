@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/APP/eclipse/eclipse-java-2019-12-R-win32-x86_64/repository/jxl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
